@@ -155,9 +155,8 @@ prodigy-infotech-task-02/
 ├── data/
 │   └── dataset.csv  # Sample dataset
 ├── images/
-│   └── example_heatmap.png  # Example of generated heatmap
-├── Task-02-EDA.ipynb  # Jupyter Notebook file
-├── requirements.txt  # Required Python packages
+│   └── heatmap.png  # Example of generated heatmap
+├── prodigy_ds_02.ipynb  # Jupyter Notebook file
 └── README.md  # Project documentation
 ```
 
