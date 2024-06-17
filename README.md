@@ -16,13 +16,13 @@ Excited to announce the successful completion of Task-02 during my data science 
 
 ## Project Description
 
-Task-02 focused on data cleaning and exploratory data analysis (EDA) to derive insights from a dataset. The process included handling missing values, converting categorical variables, dropping irrelevant columns, visualizing data distributions, examining survival rates, and generating a correlation heatmap to identify relationships between variables.
+Task-02 focused on data cleaning and exploratory data analysis (EDA) to derive insights from a dataset. The process included handling missing values, converting categorical variables, dropping irrelevant columns, visualizing data distributions and examining survival rates.
 
 ### Objectives
 
 - Clean the dataset by handling missing values, converting categorical variables, and dropping irrelevant columns.
 - Perform exploratory data analysis to understand the data and uncover patterns and trends.
-- Visualize distributions, survival rates, and correlations.
+- Visualize distributions, survival rates.
 
 ## Technologies Used
 
@@ -85,7 +85,6 @@ The notebook provides a step-by-step guide on how to:
 3. Convert categorical variables to numerical values.
 4. Drop irrelevant columns.
 5. Visualize data distributions and survival rates.
-6. Generate a correlation heatmap.
 
 #### Handling Missing Values
 
