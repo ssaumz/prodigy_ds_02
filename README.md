@@ -155,7 +155,7 @@ prodigy-infotech-task-02/
 ├── data/
 │   └── dataset.csv  # Sample dataset
 ├── images/
-│   └── heatmap.png  # Example of generated heatmap
+│   └── age_distribuition.png  # Example of generated heatmap
 ├── prodigy_ds_02.ipynb  # Jupyter Notebook file
 └── README.md  # Project documentation
 ```
